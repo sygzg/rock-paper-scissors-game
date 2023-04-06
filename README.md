@@ -1,2 +1,3 @@
 # rock-paper-scissors-game
- rock paper game with python
+If you are new to python, welcome to this application that will help you.
+don't forget to follow
